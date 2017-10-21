@@ -1,0 +1,23 @@
+{
+  "name": "tablereservations",
+  "version": "1.0.0",
+  "description": "tbale reservations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NguyenM66/TableReservations.git"
+  },
+  "author": "monicanguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NguyenM66/TableReservations/issues"
+  },
+  "homepage": "https://github.com/NguyenM66/TableReservations#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
